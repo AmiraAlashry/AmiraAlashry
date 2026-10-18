@@ -5,3 +5,6 @@
 # :blush:About me
 #### I`m ***Software Engineer***, Fresh graduate in ***2026*** with ***Bachelor’s degree in Computer Science*** from the ***Faculty of Computers and Information Sciences, Mansoura University***.
 #### ***Backend Software Engineer*** specializing in building scalable RESTful APIs using ***ASP.NET Core & C#***.
+
+# :dart: Current Focus
+#### Building clean ***Monolithic applications*** using ***ASP.NET Core*** by applying ***Non-Functional Requirements (NFRs)*** before decomposing them into ***Microservices Architecture***.
