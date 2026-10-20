@@ -21,3 +21,8 @@
 "Swagger")
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ "GitHub")
+
+# :mailbox_with_mail: Connect with Me
+[![Linked In](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amira-alashry/ "Linked In")
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:amira.osama.alashry@gmail.com "Gmail")
+
